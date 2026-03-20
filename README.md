@@ -1,4 +1,4 @@
-以MCMC進行簡單線性回歸
+以MCMC進行簡單線性回歸/n
 
 
 The Bayesian two-feature regression confirms that alcohol has a positive effect on wine quality, while volatile acidity has a negative effect. Both effects are supported by posterior intervals that do not include zero.
